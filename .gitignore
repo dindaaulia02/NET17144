@@ -1,6 +1,6 @@
 /lectures
 /labs
-!/lectures/*.pdf
-!/labs/*.pdf
+!lectures/*.pdf
+!labs/*.pdf
 /RPS
 /Referensi
