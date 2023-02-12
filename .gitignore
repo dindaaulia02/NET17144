@@ -300,6 +300,14 @@ TSWLatexianTemp*
 # xfig
 *.fig
 
+# Microsoft file
+*.pptx
+*.ppt
+*.docx
+*.doc
+*.xlsx
+*.xls
+
 # directory lectures and lab
 *.tex
 *.sty
