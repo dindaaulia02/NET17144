@@ -300,7 +300,8 @@ TSWLatexianTemp*
 # xfig
 *.fig
 
-# directory lectures
+# directory lectures and lab
 *.tex
 *.sty
 lectures/img
+labs/img
